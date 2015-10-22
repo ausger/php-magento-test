@@ -1,0 +1,13 @@
+{
+    "require": {
+        "pulsestorm/magento-better404": "1.*",
+        "eloquent/composer-config-reader": "~2.0",
+        "magento-hackathon/magento-composer-installer": "~3.0"
+    },
+    "repositories":[     
+        {
+            "type":"composer",
+            "url":"http://packages.firegento.com"
+        }
+    ]    
+}

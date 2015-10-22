@@ -1,0 +1,20 @@
+{
+  "name": "yournickname/your_project_name",
+  "license": "Apache-2.0",
+  "type": "magento-module",
+  "description": "Description of your project",
+  "homepage": "http://example.com/your/project/homepage",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*",
+    "phpunit/phpunit": "3.7.*"
+  },
+  "require-dev": {
+    "ecomdev/mage-ci": "dev-master"
+  },
+  "authors":[{
+    "name": "Your Name"
+  }],
+  "extra": {
+    "magento-root-dir": "magento/"
+  }
+}
