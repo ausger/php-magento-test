@@ -28,10 +28,10 @@
 <config>
     <global>
         <install>
-            <date><![CDATA[Sun, 25 Oct 2015 09:41:00 +0000]]></date>
+            <date><![CDATA[Tue, 27 Oct 2015 12:43:26 +0000]]></date>
         </install>
         <crypt>
-            <key><![CDATA[3d95e300341b5d9ceac8b850ccd2e15f]]></key>
+            <key><![CDATA[325228de4b8e7712e19cbe9d9c6b9eab]]></key>
         </crypt>
         <disable_local_modules>false</disable_local_modules>
         <resources>
@@ -43,7 +43,7 @@
                     <host><![CDATA[127.0.0.1:8889]]></host>
                     <username><![CDATA[root]]></username>
                     <password><![CDATA[root]]></password>
-                    <dbname><![CDATA[test-with-magerun]]></dbname>
+                    <dbname><![CDATA[magerun_test]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
