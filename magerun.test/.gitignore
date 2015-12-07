@@ -129,3 +129,4 @@ var/
 composer.lock
 vendor/
 .idea/
+skin/frontend/smartwave/porto/css/configed/
