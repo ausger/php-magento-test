@@ -1,6 +1,7 @@
 {
   "require": {
-    "magento-hackathon/magento-composer-installer": "~3.0"
+    "magento-hackathon/magento-composer-installer": "~3.0",
+    "ausger/myporto": "dev-master"
   },
   "repositories":[
     {
