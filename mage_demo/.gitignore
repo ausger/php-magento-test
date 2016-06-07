@@ -312,3 +312,7 @@ lib/sphinxapi.php
 
 app/code/community/Bubble/Autocomplete/
 app/etc/modules/Bubble_Autocomplete.xml
+
+app/etc/modules/FireGento_MageSetup.xml
+app/code/community/Optimiseweb/
+app/etc/modules/Optimiseweb_MobileDetect.xml

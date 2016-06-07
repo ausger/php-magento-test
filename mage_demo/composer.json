@@ -1,6 +1,11 @@
 {
   "require": {
-    "magento-hackathon/magento-composer-installer": "~3.0"
+    "magento-hackathon/magento-composer-installer": "~3.0",
+    "firegento/magesetup":"dev-master",
+    "aoepeople/aoe_templatehints":"dev-master",
+    "cosmocommerce/alipay":"dev-master",
+    "ausger/onestepcheckout-v340":"dev-master",
+    "optimiseweb/mobiledetect":"dev-master"
   },
   "repositories":[
     {
